@@ -1,6 +1,0 @@
-autopy==4.0.0
-mediapipe==0.8.6
-opencv-contrib-python-headless
-numpy==1.19.5
-mpmath==1.1.0
-python-math==0.0.1
