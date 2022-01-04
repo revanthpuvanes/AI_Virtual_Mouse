@@ -8,12 +8,7 @@ Then crossing our pointing and middle finger will make a click.
 
 # Demo Video
 
-
-
-
-
-
-
+https://user-images.githubusercontent.com/80465899/148072415-88fdd484-f980-474d-8c25-41c1278b97f1.mp4
 
 # Workflow
 
